@@ -1,5 +1,3 @@
 #!/bin/bash
-echo "0x01_emacs                     school
-alx-system_engineering-devops  school_is_amazing
-alx-zero_day                   so_cool
-new_school"
+echo "0-current_working_directory  1-listit  README.md"
+
