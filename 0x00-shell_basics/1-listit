@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "0x01_emacs                     school
+alx-system_engineering-devops  school_is_amazing
+alx-zero_day                   so_cool
+new_school"
